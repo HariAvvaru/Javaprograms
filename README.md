@@ -26,6 +26,6 @@ Initialize two character variables in a program and display the characters in al
 ## Program5
 Initialize a character variable in a program and
 **Test Cases:**
-- print 'Alphabhet' if the initialized value is an alphabhet
+- print 'Alphabhet' if the initialized value is an alphabet
 - print 'Digit' if the initialized value is a number
 - print 'Special Character', if the initialized value is anything else
