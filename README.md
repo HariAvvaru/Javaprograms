@@ -21,5 +21,5 @@ Write a program to check if the program has received command line arguments or n
 Initialize two character variables in a program and display the characters in alphabetical order.
 
 **Test Cases:**
-- 1) if the first character is 's' and second character is 'e' then the output should be e,s
-- 2) if the first character is 'a' and second character is 'e', then the output should be a,e
+- if the first character is 's' and second character is 'e' then the output should be e,s
+- if the first character is 'a' and second character is 'e', then the output should be a,e
