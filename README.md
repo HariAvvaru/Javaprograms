@@ -25,12 +25,14 @@ Initialize two character variables in a program and display the characters in al
 - if the first character is 'a' and second character is 'e', then the output should be a,e
 ## Program5
 Initialize a character variable in a program and
+
 **Test Cases:**
 - print 'Alphabhet' if the initialized value is an alphabet
 - print 'Digit' if the initialized value is a number
 - print 'Special Character', if the initialized value is anything else
 ## Program6
 Write a program to accept gender ("Male" or "Female") and age from command line arguments and print the percentage of interest based on the given conditions.
+
 **Test Cases:**
 - If the gender is 'Female' and age is between 1 and 58, the percentage of interest is 8.2%.
 - If the gender is 'Female' and age is between 59 and 100, the percentage of interest is 9.2%.
