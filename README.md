@@ -8,3 +8,12 @@ Given two non-negative int values, print true if they have the same last digit, 
 - Input: 7 17  --> Output: true
 - Input: 6 17  --> Output: false
 - Input: 3 113 --> Output: true
+## Program3
+Write a program to check if the program has received command line arguments or not. If the program has not received arguments then print "No Values", else print all the values in a single line separated by , (comma)
+
+**Test Cases:**
+- java Program3  --> Output: No values
+- java Program3 Mumbai Bangalore  --> Output: Mumbai, Bangalore
+
+
+[Hint: You can use length property of an array to check its length]
