@@ -17,3 +17,9 @@ Write a program to check if the program has received command line arguments or n
 
 
 [Hint: You can use length property of an array to check its length]
+## Program4
+Initialize two character variables in a program and display the characters in alphabetical order.
+
+**Test Cases:**
+- 1) if the first character is 's' and second character is 'e' then the output should be e,s
+- 2) if the first character is 'a' and second character is 'e', then the output should be a,e
