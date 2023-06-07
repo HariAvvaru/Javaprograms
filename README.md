@@ -38,3 +38,9 @@ Write a program to accept gender ("Male" or "Female") and age from command line 
 - If the gender is 'Female' and age is between 59 and 100, the percentage of interest is 9.2%.
 - If the gender is 'Male' and age is between 1 and 58, the percentage of interest is 8.4%.
 - If the gender is 'Male' and age is between 59 and 100, the percentage of interest is 10.5%.
+## Program7
+Initialize a character variable with an alphabhet in a program. If the character value is in lowercase, the output should be displayed in uppercase in the following format.
+
+**Test Cases:**
+- Input: a  --> Output: A
+- Input: A  --> Output: a
