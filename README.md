@@ -78,6 +78,14 @@ Write a program to print * in Floyds format (using for and while loop)
 - java Program15 3   -->
 Output: 
 *
+
 * *
+
 * * *
+## Program16
+Write a program to reverse a given number and print
+
+**Test Cases:**
+- Input: 1234  --> Output: 4321
+- Input: 1004  --> Output: 4001
 
