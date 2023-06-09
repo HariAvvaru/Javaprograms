@@ -65,3 +65,8 @@ Write a program to print even numbers between 23 and 57. Each number should be p
 Write a program to check if a given number is prime or not.
 ## Program13
 Write a program to print prime numbers between 10 and 99.
+## Program14
+Write a program to print the sum of all the digits of a given number.
+
+**Test Cases:**
+- Input: 1234  --> Output: 10
