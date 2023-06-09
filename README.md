@@ -79,11 +79,11 @@ Write a program to print * in Floyds format (using for and while loop)
 
 Output: 
 
+```
 *
-
 * *
-
 * * *
+```
 ## Program16
 Write a program to reverse a given number and print
 
