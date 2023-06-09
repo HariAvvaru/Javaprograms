@@ -88,4 +88,9 @@ Write a program to reverse a given number and print
 **Test Cases:**
 - Input: 1234  --> Output: 4321
 - Input: 1004  --> Output: 4001
+## Program17
+Write a Java program to find if the given number is palindrome or not
 
+**Test Cases:**
+- java Program17 110011  --> Output: 110011 is a palindrome
+- java Program17 1234  --> Output: 1234 is not a palindrome
