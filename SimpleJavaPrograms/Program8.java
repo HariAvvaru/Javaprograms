@@ -22,6 +22,9 @@ class Program8 {
             case 'W' | 'w':
                 System.out.println("White");
                 break;
+            default:
+                System.out.println("Invalid Code");
+                break;
         }
     }
 }
