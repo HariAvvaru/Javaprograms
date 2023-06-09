@@ -4,10 +4,10 @@ class Program16 {
         //System.out.println("HI");
         Scanner sc=new Scanner(System.in);
         int n=sc.nextInt();
-        String k="";
+        int k=0;
         while(n!=0){
-            String dig=String.valueOf(n%10);
-            k+=dig;
+            int dig=n%10;
+            k=k*10+dig;
             n=n/10;
         }
         System.out.print(k);
