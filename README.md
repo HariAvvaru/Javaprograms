@@ -75,9 +75,7 @@ Write a program to print * in Floyds format (using for and while loop)
 
 **Test Cases:**
 - java Program15  --> Output: Please enter an integer number
-- java Program15 3   -->
-
-Output: 
+- java Program15 3   --> Output: 
 
 ```
 *
