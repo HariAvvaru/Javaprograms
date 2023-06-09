@@ -57,3 +57,5 @@ Write a program to receive a number and print the corresponding month name.
 - java Sample 12  --> Output: December
 - java Sample  --> Output: Expected Please enter the month in numbers
 - java Sample 15 --> Output: Invalid Month
+## Program10
+Write a program to print numbers from 1 to 10 in a single row with one tab space.
