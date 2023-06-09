@@ -63,3 +63,5 @@ Write a program to print numbers from 1 to 10 in a single row with one tab space
 Write a program to print even numbers between 23 and 57. Each number should be printed in a separate row.
 ## Program12
 Write a program to check if a given number is prime or not.
+## Program13
+Write a program to print prime numbers between 10 and 99.
