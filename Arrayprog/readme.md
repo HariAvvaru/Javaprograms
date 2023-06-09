@@ -12,6 +12,14 @@ Write a program to initialize an integer array with values and check if a given 
 Initialize an integer array with ascii values and print the corresponding character values in a single row.
 ## Program5
 Initialize an integer array with ascii values and print the corresponding character values in a single row.
+## Program6
+Initialize an integer array with ascii values and print the corresponding character values in a single row.
+## Program7
+Initialize an integer array with ascii values and print the corresponding character values in a single row.
+## Program8
+Initialize an integer array with ascii values and print the corresponding character values in a single row.
+## Program9
+Initialize an integer array with ascii values and print the corresponding character values in a single row.
 ## Program
 Given two non-negative int values, print true if they have the same last digit, such as with 27 and 57. 
 
