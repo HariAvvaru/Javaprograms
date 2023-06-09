@@ -6,11 +6,13 @@ class Program15 {
         }
         else{
             int k=Integer.parseInt(args[0]);
-            for(int i=0;i<k;i++){
+            int i=0;
+            while(i<k){
                 for(int j=0;j<=i;j++){
                     System.out.print("*\t");
                 }
                 System.out.println();
+                i++;
             }
         }
     }
