@@ -50,3 +50,10 @@ Write a program to receive a color code from the user (an Alphabhet). The progra
 The following are the color codes and their corresponding color names. **R->Red, B->Blue, G->Green, O->Orange, Y->Yellow, W->White.**
 
 If color code provided by the user is not valid then print **"Invalid Code".**
+## Program9
+Write a program to receive a number and print the corresponding month name.
+
+**Test Cases:[Command line arguments]**
+- java Sample 12  --> Output: December
+- java Sample  --> Output: Expected Please enter the month in numbers
+- java Sample 15 --> Output: Invalid Month
