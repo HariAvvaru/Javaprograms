@@ -1,3 +1,5 @@
+## Program1
+Write a program to initialize an integer array and print the sum and average of the array.
 ## Program2
 Given two non-negative int values, print true if they have the same last digit, such as with 27 and 57.
 
