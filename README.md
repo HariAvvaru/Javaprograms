@@ -70,3 +70,14 @@ Write a program to print the sum of all the digits of a given number.
 
 **Test Cases:**
 - Input: 1234  --> Output: 10
+## Program15
+Write a program to print * in Floyds format (using for and while loop)
+
+**Test Cases:**
+- java Program15  --> Output: Please enter an integer number
+- java Program15 3   -->
+Output: 
+*
+* *
+* * *
+
