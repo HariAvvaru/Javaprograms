@@ -35,6 +35,14 @@ withoutTen([1, 10, 10, 2]) --> [1, 2, 0, 0]
 withoutTen([10, 2, 10]) --> [2, 0, 0]
 
 withoutTen([1, 99, 10]) --> [1, 99, 0]
+## Program10
+Print an array that contains the exact same numbers as the given array, but rearranged so that all the even numbers come before all the odd numbers. Other than that, the numbers can be in any order. You may modify and print the given array, or make a new array.
+
+evenOdd([1, 0, 1, 0, 0, 1, 1]) --> [0, 0, 0, 1, 1, 1, 1]
+
+evenOdd([3, 3, 2]) --> [2, 3, 3]
+
+evenOdd([2, 2, 2]) --> [2, 2, 2]
 
 ## Program
 Given two non-negative int values, print true if they have the same last digit, such as with 27 and 57. 
