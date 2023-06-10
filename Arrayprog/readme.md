@@ -59,7 +59,23 @@ middleway([1, 2, 3], [4, 5, 6]) --> [2, 5]
 middleway([7, 7, 7], [3, 8, 0]) --> [7, 8] 
 
 middleway([5, 2, 9], [1, 4, 5]) --> [2, 4]
+## Program13
+Write a program to reverse the elements of a given 2*2 array. Four integer numbers needs to be passed as Command Line arguments.
 
+**Test Cases:**
+- java Sample 1 2 3 --> O/P: Please enter 4 integer numbers
+- java Sample 1 2 3 4 --> O/P: 
+
+The given array is :
+
+1 2
+
+3 4
+The reverse of the array is :
+
+4 3
+
+2 1
 ## Program
 Given two non-negative int values, print true if they have the same last digit, such as with 27 and 57. 
 
