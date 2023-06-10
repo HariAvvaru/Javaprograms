@@ -7,18 +7,13 @@ class Program11 {
         for(int i=0;i<n;i++){
             a[i]=sc.nextInt();
         }
-        int c=0;
-       for(int i=0;i<n;i++){
-            if(a[i]==1 | a[i]==4){
-                c+=1;
-            }
-            else{
-                System.out.print("False");
-                break;
-            }
+        System.out.print(only14(a));
+    }
+    public static boolean only14(int[] a){
+        for(int k:a){
+            if(k!=1 && k!=4)
+                return false;
         }
-        if(c==n){
-            System.out.print("True");
-        }
+        return true;
     }
 }
