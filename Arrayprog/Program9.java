@@ -7,20 +7,19 @@ class Program9 {
         for(int i=0;i<n;i++){
             a[i]=sc.nextInt();
         }
-        int[] b=new int[n];
-        int j=0;
+        int c=0;
         for(int i=0;i<n;i++){
-            if(a[i]%2==0){
+            if(a[i]!=10){
                 System.out.print(a[i]+"\t");
             }
             else{
-                b[j]=a[i];
-                a[i]=-1;
-                j++;
+                c+=1;
             }
         }
-        for(int i=0;i<j;i++){
-            System.out.print(b[i]+"\t");
+        while(c!=0){
+            System.out.print("0\t");
+            c-=1;
         }
+        
     }
 }
