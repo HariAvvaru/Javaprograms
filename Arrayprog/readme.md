@@ -71,6 +71,7 @@ The given array is :
 1 2
 
 3 4
+
 The reverse of the array is :
 
 4 3
