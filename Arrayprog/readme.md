@@ -43,6 +43,22 @@ evenOdd([1, 0, 1, 0, 0, 1, 1]) --> [0, 0, 0, 1, 1, 1, 1]
 evenOdd([3, 3, 2]) --> [2, 3, 3]
 
 evenOdd([2, 2, 2]) --> [2, 2, 2]
+## Program11
+Given an array of type int, print true if every element is 1 or 4.
+
+only14([1, 4, 1, 4]) --> true
+
+only14([1, 4, 2, 4]) --> false 
+
+only14([1, 1]) --> true
+## Program12
+Given 2 int arrays, a and b, each length 3, form a new array of length 2, containing their middle elements.
+
+middleway([1, 2, 3], [4, 5, 6]) --> [2, 5]
+
+middleway([7, 7, 7], [3, 8, 0]) --> [7, 8] 
+
+middleway([5, 2, 9], [1, 4, 5]) --> [2, 4]
 
 ## Program
 Given two non-negative int values, print true if they have the same last digit, such as with 27 and 57. 
